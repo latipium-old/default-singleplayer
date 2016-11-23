@@ -1,4 +1,4 @@
-﻿//
+//
 // AssemblyInfo.cs
 //
 // Author:
@@ -29,10 +29,10 @@ using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Security;
 
-[assembly: AssemblyTitle("Com.Latipium.Template")]
-[assembly: AssemblyDescription("A template for modules developers to use as a starting point for their modules")]
+[assembly: AssemblyTitle("Com.Latipium.Defaults.SinglePlayer")]
+[assembly: AssemblyDescription("The default singleplayer implementation for Latipium")]
 [assembly: AssemblyCompany("Latipium")]
-[assembly: AssemblyProduct("Latipium Template")]
+[assembly: AssemblyProduct("Default Latipium SinglePlayer Module")]
 [assembly: AssemblyCopyright("Zach Deibert")]
 
 #if DEBUG
